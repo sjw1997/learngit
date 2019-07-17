@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 merge
 merge test
-merge test2.
+Bug branch.
