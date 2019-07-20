@@ -9,3 +9,4 @@ Bug branch.
 add author
 add comment
 适当放宽很温柔
+color
